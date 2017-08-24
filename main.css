@@ -7,11 +7,13 @@ html, body {
 
 h1 {
   font-size: 48px;
+  text-align: center;
 }
 
 p {
   max-width: 65%;
   min-width: 500px;
+  text-align: center;
 }
 
 h2 {
@@ -23,11 +25,6 @@ div {
   padding-right: 30px;
   height: 100%;
   width: 100%;
-}
-
-video {
-  background-color: #000000;
-  border: 2px solid black;
 }
 
 .container {
