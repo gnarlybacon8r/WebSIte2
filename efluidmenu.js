@@ -1,6 +1,6 @@
 ;(function(w, $){
 
-	var downarrow = 'assets/down.gif' // path to down arrow image
+	var downarrow = 'down.gif' // path to down arrow image
 	var fxduration = 300 // transition effect duration in milliseconds
 	var showhidedelay = [100,100] // show and hide sub menu delay in milliseconds
 
